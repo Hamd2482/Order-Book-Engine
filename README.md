@@ -41,6 +41,10 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
+
 ## Learnings
 
 * Market microstructure fundamentals
